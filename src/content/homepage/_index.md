@@ -1,21 +1,21 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Next Project"
-  content: "Nextplate is a free starter template built with Next and TailwindCSS, providing everything you need to jumpstart your Next project and save valuable time."
+  title: "Navarrete Artigas Constructora: Soluciones integrales en ingeniería, arquitectura y ejecución de obras."
+  content: "Diseño y ejecución de obras con altos estándares de calidad, seguridad y eficiencia. Un equipo profesional altamente calificado y comprometido con sus clientes."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Contactenos ya"
     link: "https://github.com/zeon-studio/nextplate"
 
 # Features
 features:
-  - title: "What's Included in Nextplate"
+  - title: "Nuestra Vision"
     image: "/images/service-1.png"
     content: "Nextplate is a comprehensive starter template that includes everything you need to get started with your Next project. What's Included in Nextplate"
     bulletpoints:
-      - "10+ Pre-build pages"
+      - "Entregar un servicio integral que supere las expectativas de nuestros clientes"
       - "95+ Google Pagespeed Score"
       - "Build with Next and TailwindCSS for easy and customizable styling"
       - "Fully responsive on all devices"
@@ -26,26 +26,26 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Next"
+  - title: "Nuestra Mision"
     image: "/images/service-2.png"
-    content: "Next is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "En Navarrete Artigas Constructora, estamos comprometidos con la construcción de un futuro mejor para nuestros clientes, colaboradores y la comunidad."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Entregar un servicio integral que supere las expectativas de nuestros clientes."
+      - "Posicionarnos como especialistas en todas las áreas de la construcción"
+      - "Lograr la satisfacción total de nuestros clientes, a través de la entrega de proyectos de alta calidad"
     button:
       enable: true
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/nextplate"
 
-  - title: "The Top Reasons to Choose Next for Your Next Project"
+  - title: "Confíe en la experiencia para construir espacios de calidad."
     image: "/images/service-3.png"
-    content: "With Next, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Estamos comprometidos con la calidad en todo lo que hacemos. Nos aseguramos de que tu proyecto se ejecute de acuerdo a los más altos estándares de calidad y seguridad."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Next a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Más de 10 años transformando ideas en obras sólidas y seguras."
+      - "Su socio integral; Diseño, construcción y entrega llave en mano."
+      - "Calidad y compromiso, Creamos espacios que perduran en el tiempo."
+      - "Contamos con un equipo multidisciplinario de profesionales que puede cubrir todas las necesidades de tu proyecto."
     button:
       enable: false
       label: ""

@@ -1,47 +1,47 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Empresa",
       "url": "/about"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Pages",
+      "name": "Divisiones",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Contact",
+          "name": "Industrial",
           "url": "/contact"
         },
         {
-          "name": "Blog",
+          "name": "Proyectos",
           "url": "/blog"
         },
         {
-          "name": "Authors",
+          "name": "Sanitarias",
           "url": "/authors"
         },
         {
-          "name": "Categories",
+          "name": "SERVIU",
           "url": "/categories"
         },
         {
-          "name": "Tags",
+          "name": "Hogar",
           "url": "/tags"
-        },
-        {
-          "name": "404 Page",
-          "url": "/404"
         }
       ]
+    },
+    {
+      "name": "Contacto",
+      "url": "/elements"
+    },
+    {
+      "name": "Blog",
+      "url": "/blog"
     }
   ],
   "footer": [
