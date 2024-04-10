@@ -40,7 +40,7 @@ const Header = () => {
       className={`header z-30 ${settings.sticky_header && "sticky top-0"}`}
     >
       <nav className="navbar container">
-        {}
+        {/* logo */}
         <div className="order-0">
           <Logo />
         </div>
@@ -149,14 +149,14 @@ const Header = () => {
             </button>
           )}
           <ThemeSwitcher className="mr-5" />
-          {/* {navigation_button.enable && (
+          {navigation_button.enable && (
             <Link
               className="btn btn-outline-primary btn-sm hidden lg:inline-block"
               href={navigation_button.link}
             >
               {navigation_button.label}
             </Link>
-          )} */}
+          )}
         </div>
       </nav>
     </header>

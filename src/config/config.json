@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Nextplate",
+    "title": "Navarrete Artigas Constructora",
     "base_url": "https://nextplate.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -9,7 +9,7 @@
     "logo_darkmode": "/images/logoBlanco.png",
     "logo_width": "240",
     "logo_height": "60",
-    "logo_text": "Nextplate"
+    "logo_text": "ArtigasConstructora"
   },
 
   "settings": {
@@ -24,13 +24,13 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "Designed And Developed by [gurkenpoo](https://github.com/gurkenpoo)"
   },
 
   "navigation_button": {
     "enable": true,
     "label": "Get Started",
-    "link": "https://github.com/zeon-studio/nextplate"
+    "link": "https://github.com/gurkenpoo"
   },
 
   "disqus": {
@@ -42,6 +42,6 @@
   "metadata": {
     "meta_author": "Themefisher",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Next Boilerplate"
+    "meta_description": "Landing Page"
   }
 }

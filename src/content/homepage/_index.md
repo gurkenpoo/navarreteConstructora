@@ -3,7 +3,7 @@
 banner:
   title: "Navarrete Artigas Constructora: Soluciones integrales en ingeniería, arquitectura y ejecución de obras."
   content: "Diseño y ejecución de obras con altos estándares de calidad, seguridad y eficiencia. Un equipo profesional altamente calificado y comprometido con sus clientes."
-  image: "/images/banner.png"
+  image: "/images/dibujo-negro-empresa.svg"
   button:
     enable: true
     label: "Contactenos ya"
