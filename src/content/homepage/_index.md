@@ -36,7 +36,7 @@ features:
       - "Comprometemos a cumplir con los plazos y presupuestos acordados"
     button:
       enable: true
-      label: "Contactenos"
+      label: "Divisiones de Trabajo"
       link: "/contact"
 
   - title: "Confíe en la experiencia para construir espacios de calidad."

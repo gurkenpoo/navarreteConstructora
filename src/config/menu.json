@@ -10,16 +10,16 @@
     },
     {
       "name": "Divisiones",
-      "url": "",
-      "hasChildren": true,
+      "url": "/divisiones",
+      "hasChildren": false,
       "children": [
         {
           "name": "Industrial",
-          "url": "/divisiones"
+          "url": "#division-industrial"
         },
         {
           "name": "Proyectos",
-          "url": "/blog"
+          "url": "/divisiones#division-proyectos"
         },
         {
           "name": "Sanitarias",
@@ -42,8 +42,8 @@
   ],
   "footer": [
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Divisiones",
+      "url": "/divisiones"
     },
     {
       "name": "Privacy Policy",

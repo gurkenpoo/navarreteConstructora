@@ -6,5 +6,5 @@ description: "Con Navarro Artigas Constructora, la construcción de sus sueños 
 button:
   enable: true
   label: "Comencemos ahora"
-  link: "https://github.com/zeon-studio/nextplate"
+  link: "/contact"
 ---

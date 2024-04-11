@@ -15,7 +15,7 @@ const Accordion = ({
 
   return (
     <div className={`accordion ${show && "active"} ${className}`}>
-      <button className="accordion-header" onClick={() => setShow(!show)}>
+      <button className="accordion-header border-dark dark:bg-transparent bg-yellow-300 text-dark hover:bg-dark hover:text-white dark:border-yellow-300 dark:text-white dark:hover:bg-yellow-300 dark:hover:text-dark" onClick={() => setShow(!show)}>
         {title}
         <svg
           className="accordion-icon"
@@ -30,7 +30,7 @@ const Accordion = ({
           ></path>
         </svg>
       </button>
-      <div className="accordion-content">{children}</div>
+      <div className="accordion-content ">{children}</div>
     </div>
   );
 };

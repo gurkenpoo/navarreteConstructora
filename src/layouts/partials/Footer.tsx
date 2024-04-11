@@ -26,6 +26,7 @@ const Footer = () => {
                 </li>
               ))}
             </ul>
+        <p>Arzobispo Valdivieso 244, Llolleo, San Antonio</p>
           </div>
           <div className="mb-8 text-center lg:col-3 lg:mb-0 lg:mt-0 lg:text-right">
             <Social source={social.main} className="social-icons" />
