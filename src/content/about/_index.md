@@ -1,9 +1,9 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Navarreta Artigas Constructora"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: "/images/dibujo-negro-empresa.svg"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Somos una empresa que se inicia posterior al terremoto de febrero de 2010, con el desarrollo de proyectos de ingeniería y la ejecución obras de mejoramiento estructural en edificios, colegios y viviendas en la Provincia de San Antonio. En la actualidad nos proyectamos a seguir creciendo en el rubro de la construcción, ya sea en el ámbito de la ejecución de obras como en el diseño de proyectos de ingeniería y arquitectura.

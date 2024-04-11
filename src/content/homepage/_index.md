@@ -6,21 +6,21 @@ banner:
   image: "/images/dibujo-negro-empresa.svg"
   button:
     enable: true
-    label: "Contactenos ya"
+    label: "Contactenos"
     link: "https://github.com/zeon-studio/nextplate"
 
 # Features
 features:
   - title: "Nuestra Vision"
     image: "/images/service-1.png"
-    content: "Nextplate is a comprehensive starter template that includes everything you need to get started with your Next project. What's Included in Nextplate"
+    content: "Navarro Artigas Constructora es la solución integral para sus proyectos de construcción. Lo acompañamos desde la idea inicial hasta la entrega final, ofreciendo excelencia en cada paso."
     bulletpoints:
       - "Entregar un servicio integral que supere las expectativas de nuestros clientes"
-      - "95+ Google Pagespeed Score"
-      - "Build with Next and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Trabajamos en forma mancomunada con las **PSAT**"
+      - "Equipo de profesionales altamente capacitados y con amplia experiencia."
+      - "Servicio personalizado y flexible para adaptarnos a las necesidades de cada cliente."
+      - "Proyectos de acuerdo a las líneas de financiamiento que tenga **SERVIU**"
+      - "Mantenemos inscripción en registro de contratistas **ESVAL**"
     button:
       enable: false
       label: "Get Started Now"
@@ -33,9 +33,10 @@ features:
       - "Entregar un servicio integral que supere las expectativas de nuestros clientes."
       - "Posicionarnos como especialistas en todas las áreas de la construcción"
       - "Lograr la satisfacción total de nuestros clientes, a través de la entrega de proyectos de alta calidad"
+      - "Comprometemos a cumplir con los plazos y presupuestos acordados"
     button:
       enable: true
-      label: "Get Started Now"
+      label: "Contactenos"
       link: "https://github.com/zeon-studio/nextplate"
 
   - title: "Confíe en la experiencia para construir espacios de calidad."

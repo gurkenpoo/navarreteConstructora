@@ -15,7 +15,7 @@
       "children": [
         {
           "name": "Industrial",
-          "url": "/contact"
+          "url": "/divisiones"
         },
         {
           "name": "Proyectos",
@@ -37,7 +37,7 @@
     },
     {
       "name": "Contacto",
-      "url": "/elements"
+      "url": "/contact"
     },
     {
       "name": "Blog",
