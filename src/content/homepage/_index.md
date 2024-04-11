@@ -1,13 +1,13 @@
 ---
 # Banner
 banner:
-  title: "Navarrete Artigas Constructora: Soluciones integrales en ingeniería, arquitectura y ejecución de obras."
+  title: "Soluciones Integrales en Ingeniería Arquitectura y Construccion"
   content: "Diseño y ejecución de obras con altos estándares de calidad, seguridad y eficiencia. Un equipo profesional altamente calificado y comprometido con sus clientes."
   image: "/images/dibujo-negro-empresa.svg"
   button:
     enable: true
     label: "Contactenos"
-    link: "https://github.com/zeon-studio/nextplate"
+    link: "/contact"
 
 # Features
 features:
@@ -37,7 +37,7 @@ features:
     button:
       enable: true
       label: "Contactenos"
-      link: "https://github.com/zeon-studio/nextplate"
+      link: "/contact"
 
   - title: "Confíe en la experiencia para construir espacios de calidad."
     image: "/images/service-3.png"

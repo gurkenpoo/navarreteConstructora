@@ -38,10 +38,6 @@
     {
       "name": "Contacto",
       "url": "/contact"
-    },
-    {
-      "name": "Blog",
-      "url": "/blog"
     }
   ],
   "footer": [

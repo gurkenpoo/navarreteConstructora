@@ -7,8 +7,8 @@
     "favicon": "/images/favicon.png",
     "logo": "/images/logoDark.png",
     "logo_darkmode": "/images/logoBlanco.png",
-    "logo_width": "240",
-    "logo_height": "60",
+    "logo_width": "150",
+    "logo_height": "40",
     "logo_text": "ArtigasConstructora"
   },
 
@@ -16,20 +16,20 @@
     "search": true,
     "sticky_header": true,
     "theme_switcher": true,
-    "default_theme": "system",
+    "default_theme": "lightmode",
     "pagination": 2,
     "summary_length": 200,
-    "blog_folder": "blog"
+    "blog_folder": "blog" 
   },
 
   "params": {
-    "contact_form_action": "#",
+    "contact_form_action": "https://formspree.io/f/xoqgpkne",
     "copyright": "Designed And Developed by [gurkenpoo](https://github.com/gurkenpoo)"
   },
 
   "navigation_button": {
     "enable": true,
-    "label": "Get Started",
+    "label": "Contactenos",
     "link": "https://github.com/gurkenpoo"
   },
 
