@@ -1,5 +1,5 @@
 ---
-title: "Soluciones integrales en ingeniería, arquitectura y ejecución de obras."
+title: "Navarrete Artigas Constructora: Construyendo el futuro que usted imagina."
 ---
 
 ## DIVISION INDUSTRIAL
@@ -58,7 +58,7 @@ Podemos ser contraparte técnica de su proyecto, administrando su obra y asesor�
 
 ## DIVISIÓN SANITARIAS
 
-"Una de nuestras especialidades esta en la ejecución de obras sanitarias, ya sea de agua potable o de alcantarillado, público ( **ESVAL** en el caso de la V región ) o sistemas particulares con tramitación en el servicio de salud. Mantenemos inscripción en registro de contratistas **ESVAL** por lo que estamos en condiciones de ejecutar desde un arranque de agua potable o alcantarillado domiciliario, hasta colectores de alcantarillado o matrices de agua potable públicos. Partiendo desde el desarrollo del proyecto, la tramitación con la **ECI** y la ejecución posterior."
+Una de nuestras especialidades esta en la ejecución de obras sanitarias, ya sea de agua potable o de alcantarillado, público ( **ESVAL** en el caso de la V región ) o sistemas particulares con tramitación en el servicio de salud. Mantenemos inscripción en registro de contratistas **ESVAL** por lo que estamos en condiciones de ejecutar desde un arranque de agua potable o alcantarillado domiciliario, hasta colectores de alcantarillado o matrices de agua potable públicos. Partiendo desde el desarrollo del proyecto, la tramitación con la **ECI** y la ejecución posterior.  
 ![image](/images/divImg/logo-siss.jpg) ![image](/images/divImg/logo-esval.jpg) ![image](/images/divImg/logo-salud.jpg)
 
 ---
@@ -100,3 +100,45 @@ A nuestras oficinas se acercan los beneficiarios que hayan obtenido el **subsidi
 ###### _Reparación - Remodelación - Mantención_
 
 Nuestro objetivo es servir a los clientes de la división hogar, entregando soluciones efectivas y de calidad, bajo el amparo de una empresa constructora que entrega un trabajo garantizado. Entregamos un servicio de calidad con maestros especialistas en cada área para resolver cualquier problema que tenga en su hogar.
+<Tabs>
+
+<Tab name="ELECTRICIDAD">
+
+Desde instalaciones domiciliarias y trifásicas hasta mantenimiento preventivo y correctivo, certificación eléctrica y soluciones de eficiencia energética. Contamos con un equipo de electricistas altamente calificados y con amplia experiencia, garantizando un servicio profesional, seguro y de calidad. Solicite su presupuesto sin compromiso.
+![image](/images/divImg/elec.jpg)
+</Tab>
+
+<Tab name="GASFITERIA">
+
+Incluyendo instalación de lavadoras y calefonts, reparación de redes de gas, agua potable y cambio de llaves, filtraciones y fugas. Contamos con un equipo de técnicos altamente calificados y con amplia experiencia, garantizando un servicio profesional.
+![image](/images/divImg/gasfi.jpg)
+
+</Tab>
+
+<Tab name="ALCANTARILLADO">
+
+Soluciones integrales para el mantenimiento de sus instalaciones sanitarias, incluyendo cambio de inodoros, lavamanos, lavaplatos, tinas, duchas y urinarios, así como limpieza de ductos de alcantarillado para eliminar obstrucciones, malos olores y prevenir daños a la propiedad.
+![image](/images/divImg/alcan.jpg)
+</Tab>
+<Tab name="PISOS">
+
+Soluciones integrales para renovar los suelos de su hogar o negocio. Somos expertos en la instalación de piso flotante, ya sea laminado, de madera maciza o vinílico, y en el cambio de pisos de madera, incluyendo madera maciza, contrachapada o tarima flotante.
+![image](/images/divImg/pisos.jpg)
+</Tab>
+<Tab name="TECHUMBRES">
+
+Protege tu propiedad del agua y el clima. Somos expertos en reparar filtraciones en techos, paredes y tuberías, así como en reparar la estructura de cerchas de madera, metal u hormigón y los canales de aguas lluvia de aluminio, PVC o metal.
+![image](/images/divImg/techu.jpg)
+</Tab>
+<Tab name="REMODELACIONES">
+
+Transforma tu espacio con remodelaciones integrales en baños, cocinas, living, comedor y dormitorios. Creamos ambientes funcionales y estéticos que se ajustan a tu estilo y presupuesto. Te asesoramos en el diseño, selección de materiales y ejecución del proyecto, garantizando un resultado de alta calidad.
+![image](/images/divImg/remo.jpg)
+</Tab>
+<Tab name="AMPLIACIONES">
+
+Amplía tu espacio habitable de forma segura y eficiente, utilizando materiales como madera, albañilería de ladrillo u hormigón de cemento, tanto en primer como en segundo piso. Tomamos tu proyecto, te asesoramos técnicamente y lo ejecutamos con los más altos estándares de calidad. Incluso, podemos concluir obras sin terminar que tengas en curso.
+![image](/images/divImg/amplia.jpg)
+</Tab>
+
+</Tabs>

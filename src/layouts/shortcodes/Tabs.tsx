@@ -38,11 +38,11 @@ function Tabs({ children }: { children: ReactElement[] }) {
 
   return (
     <div className="tab">
-      <ul className="tab-nav" role="tablist">
+      <ul className="tab-nav bg-yellow-300" role="tablist">
         {children.map((item: ReactElement, index: number) => (
           <li
             key={index}
-            className={`tab-nav-item ${index === active && "active"}`}
+            className={`tab-nav-item ${index === active && "active bg-yellow-300 dark:text-dark"}`}
             role="tab"
             tabIndex={index === active ? 0 : -1}
             onClick={() => setActive(index)}

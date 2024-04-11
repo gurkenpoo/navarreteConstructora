@@ -50,7 +50,7 @@ const Contact = async () => {
                 </div>
                 <div className="mb-6">
                   <label htmlFor="message" className="form-label">
-                    Comentarios, algo que nos quieras preguntar. <span className="text-red-500">*</span>
+                    Comentarios, Cotizacion, Comentanos que necesitas. <span className="text-red-500">*</span>
                   </label>
                   <textarea
                     id="message"
@@ -61,7 +61,7 @@ const Contact = async () => {
                   ></textarea>
                 </div>
                 <button type="submit" className="btn btn-primary">
-                  Submit
+                  Enviar
                 </button>
               </form>
             </div>

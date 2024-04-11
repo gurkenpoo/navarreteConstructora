@@ -30,7 +30,7 @@
   "navigation_button": {
     "enable": true,
     "label": "Contactenos",
-    "link": "https://github.com/gurkenpoo"
+    "link": "/contact"
   },
 
   "disqus": {

@@ -9,7 +9,7 @@
       "url": "/about"
     },
     {
-      "name": "Divisiones",
+      "name": "Divisiones de trabajo",
       "url": "/divisiones",
       "hasChildren": false,
       "children": [
@@ -42,7 +42,7 @@
   ],
   "footer": [
     {
-      "name": "Divisiones",
+      "name": "Divisiones de Trabajo",
       "url": "/divisiones"
     },
     {
