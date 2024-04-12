@@ -7,6 +7,7 @@ import Header from "@/partials/Header";
 import Providers from "@/partials/Providers";
 import "@/styles/main.scss";
 
+
 export default function RootLayout({
   children,
 }: {
@@ -17,6 +18,7 @@ export default function RootLayout({
   const sf = theme.fonts.font_family.secondary;
 
   return (
+    
     <html suppressHydrationWarning={true} lang="en">
       <head>
         {/* responsive meta */}
@@ -24,6 +26,9 @@ export default function RootLayout({
           name="viewport"
           content="width=device-width, initial-scale=1, maximum-scale=5"
         />
+        <meta property="og:title" content="Artigas Navarrete Constructora" />
+<meta property="og:description" content="Construyendo el futuro que usted imagina." />
+<meta property="og:image" content="/image/landing.png" />
 
         {/* favicon */}
         <link rel="shortcut icon" href={config.site.favicon} />
