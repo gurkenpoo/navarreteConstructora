@@ -39,7 +39,7 @@ const SeoMeta = ({
       {/* meta-description */}
       <meta
         name="description"
-        content={plainify(description ? description : meta_description)}
+        content="Diseño y ejecución de obras con altos estándares de calidad, seguridad y eficiencia. Un equipo profesional altamente calificado y comprometido con sus clientes."
       />
 
       {/* author from config.json */}
@@ -81,7 +81,7 @@ const SeoMeta = ({
       {/* og-image */}
       <meta
         property="og:image"
-        content={`${base_url}${image ? image : meta_image}`}
+        content="/image/landing.png"
       />
 
       {/* twitter-image */}
