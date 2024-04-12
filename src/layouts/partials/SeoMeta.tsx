@@ -56,7 +56,7 @@ const SeoMeta = ({
       {/* og-description */}
       <meta
         property="og:description"
-        content={plainify(description ? description : meta_description)}
+        content="Diseño y ejecución de obras con altos estándares de calidad, seguridad y eficiencia. Un equipo profesional altamente calificado y comprometido con sus clientes."
       />
       <meta property="og:type" content="website" />
       <meta
@@ -75,7 +75,7 @@ const SeoMeta = ({
       {/* twitter-description */}
       <meta
         name="twitter:description"
-        content={plainify(description ? description : meta_description)}
+        content="Diseño y ejecución de obras con altos estándares de calidad, seguridad y eficiencia. Un equipo profesional altamente calificado y comprometido con sus clientes."
       />
 
       {/* og-image */}
@@ -87,7 +87,7 @@ const SeoMeta = ({
       {/* twitter-image */}
       <meta
         name="twitter:image"
-        content={`${base_url}${image ? image : meta_image}`}
+        content="/image/landing.png"
       />
       <meta name="twitter:card" content="summary_large_image" />
     </>
