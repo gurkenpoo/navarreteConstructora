@@ -56,7 +56,7 @@ const Contact = async () => {
                     id="message"
                     name="message"
                     className="form-input"
-                    placeholder="Aqui nos dices porque nos contactas..."
+                    placeholder="Los contacto porque me gustaria saber..."
                     rows={8}
                   ></textarea>
                 </div>

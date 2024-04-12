@@ -14,7 +14,7 @@ const Button = ({
   return (
     <Link
       href={link}
-      target="_blank"
+      target="_self"
       rel={`noopener noreferrer ${
         rel ? (rel === "follow" ? "" : rel) : "nofollow"
       }`}

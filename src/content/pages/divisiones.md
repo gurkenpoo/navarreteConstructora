@@ -142,3 +142,11 @@ Amplía tu espacio habitable de forma segura y eficiente, utilizando materiales 
 </Tab>
 
 </Tabs>
+
+##
+
+##
+
+<section className="flex justify-center align-middle">
+<Button label="Contactar!" link="/contact" style="solid"/>
+</section>

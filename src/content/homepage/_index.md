@@ -48,7 +48,7 @@ features:
       - "Calidad y compromiso, Creamos espacios que perduran en el tiempo."
       - "Contamos con un equipo multidisciplinario de profesionales que puede cubrir todas las necesidades de tu proyecto."
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Sobre Nosotros"
+      link: "/about"
 ---
